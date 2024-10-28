@@ -31,19 +31,19 @@ python enhance.py
 
 | Low light image  | Enhanced image with LIME  |
 |:----------------:|:-------------------------:|
-| ![](pics/2.jpg)  | ![](pics/output/LIME_2.jpg)  |
-| ![](pics/wx.jpg) | ![](pics/output/LIME_wx.jpg) |
+| ![](pics/2.jpg)  | ![](pics/outputs/LIME_2.jpg)  |
+| ![](pics/wx.jpg) | ![](pics/outputs/LIME_wx.jpg) |
 
 **Here are few examples for DUAL:**
 
 | Low light image  | Adjusted image with DUAL  |
 |:----------------:|:-------------------------:|
-| ![](pics/2.jpg)  | ![](pics/output/DUAL_result_2.jpg)  |
-| ![](pics/wx.jpg) | ![](pics/output/DUAL_result_wx.jpg) |
+| ![](pics/2.jpg)  | ![](pics/outputs/DUAL_result_2.jpg)  |
+| ![](pics/wx.jpg) | ![](pics/outputs/DUAL_result_wx.jpg) |
 
 | Over-exposed image  | Adjusted image with DUAL  |
 |:----------------:|:-------------------------:|
-| ![](pics/over_exposed_1.png)  | ![](pics/output/DUAL_result_over_exposed_1.png)  |
+| ![](pics/over_exposed_1.png)  | ![](pics/outputs/DUAL_result_over_exposed_1.png)  |
 
 ## Thanks
 
